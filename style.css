@@ -3,9 +3,8 @@
 body {
   padding-top: 30px;
   margin-left: 0px;
-
-
 }
+
 /* ⬆⬆⬆⬆ Nav Bar Styling 
 ~~~~~ Taken From: 
 https://www.w3schools.com/css/css_navbar_horizontal.asp */
@@ -44,3 +43,4 @@ li a:hover:not(.active) {
 h1 {
   width: 100%;
 }
+
